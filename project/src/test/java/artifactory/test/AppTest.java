@@ -10,7 +10,7 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
-    /**
+    /** hello
      * Create the test case
      *
      * @param testName name of the test case
